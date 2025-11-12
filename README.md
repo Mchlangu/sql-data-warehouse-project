@@ -43,4 +43,4 @@ Specifications
 A software developer specializing in problem-solving, whether it involves learning new programming languages and frameworks, debugging code, designing features, or understanding complex systems. I am currently seeking an opportunity to leverage my analytical and creative skills to develop solutions and build innovative software
 
 Let's stay in touch! Feel free to connect with me on the following platform  
-<a  href=(https://www.linkedin.com/in/wsmahlangu/><img width="221" height="50" alt="LI-Logo" src="https://github.com/user-attachments/assets/59d77412-410a-4573-b1b9-3b7140a61c93" /></a>
+<a  href=https://www.linkedin.com/in/wsmahlangu/><img width="221" height="50" alt="LI-Logo" src="https://github.com/user-attachments/assets/59d77412-410a-4573-b1b9-3b7140a61c93" /></a>
