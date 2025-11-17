@@ -80,8 +80,8 @@ GO
 CREATE  VIEW gold.fact_sales AS
 SELECT 
 	sn.sls_ord_num AS order_number,
-	gp.product_key,
-	gc.customer_id,
+	gp.product_key AS product_key,
+	gc.customer_key AS customer_key,
 	sn.sls_order_dt AS order_date,
 	sn.sls_ship_dt AS ship_date,
 	sn.sls_due_dt AS due_date,
